@@ -1,6 +1,5 @@
 roadmap pembelajaran dari Channel Web Programming unpas
 - GIT
-- HTML
-- CSS
 - JS
 - PHP
+- framework
