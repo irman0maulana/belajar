@@ -1,4 +1,4 @@
 backend
-  - android backend
+  - backend web developer
 front-end
-  - android frontend
+  - frontend web developer
